@@ -3,6 +3,8 @@
 <!--
 **the-code-chef/the-code-chef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
